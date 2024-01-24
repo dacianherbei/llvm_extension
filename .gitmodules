@@ -1,0 +1,6 @@
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/llvm/llvm-project
+[submodule "cling"]
+	path = cling
+	url = https://github.com/root-project/cling
